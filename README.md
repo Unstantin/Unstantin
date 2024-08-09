@@ -9,6 +9,4 @@
 
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=Unstantin&theme=blue-green)
-
 [![](https://www.codewars.com/users/Unstantin/badges/large)](https://www.codewars.com/users/Unstantin)
