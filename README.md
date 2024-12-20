@@ -8,5 +8,4 @@
 ![](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=000000)
 
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-[![](https://www.codewars.com/users/Unstantin/badges/large)](https://www.codewars.com/users/Unstantin)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
